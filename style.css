@@ -23,7 +23,7 @@ body{
 
 .category-content a{
     font-weight: 500;
-    font-size: 13px;
+    font-size: 16px;
     text-decoration: none;
 }
 
@@ -60,7 +60,7 @@ h1{
 h2{
     
     font-weight: bold;
-    font-size: 15px;
+    font-size: 16px;
 }
 
 h3{
@@ -71,7 +71,7 @@ h3{
 
 p{
     font-weight: 400;
-    font-size: 13px;
+    font-size: 16px;
 }
 
 /* Searchbar */
@@ -519,12 +519,12 @@ section #accommodations{
     }
 
     #popular .popular-text p{
-        font-size: 14px;
-        margin-bottom: 45px;
+        font-size: 16px;
+        margin-bottom: 35px;
     }
 
     .margin-content p{
-        font-size: 14px;
+        font-size: 16px;
     }
 
     .popular-text i, .margin-content i{
